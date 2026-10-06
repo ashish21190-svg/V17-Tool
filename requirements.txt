@@ -3,3 +3,6 @@ yfinance
 pandas
 numpy
 plotly
+curl_cffi
+pytz
+requests
